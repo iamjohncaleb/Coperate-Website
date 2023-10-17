@@ -12,7 +12,7 @@ body {
 }
 
 nav {
-    background: #1b1b1b;
+    background: #4e4e4e;
 }
 
 nav:after {
@@ -45,7 +45,7 @@ nav{
 nav ul li{
     float: left;
     display: inline-block;
-    background: #1b1b1b;
+    background: #4e4e4e;
     margin: 0 5px;
 }
 
